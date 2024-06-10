@@ -1,0 +1,12 @@
+- TODO Application
+
+- scheduled_at ---  when the task is gonna start
+- duration ---  how long it took to do that task
+- is_completed(status) ---  to determine if the task is done
+- title --- the title of the task
+- color --- the color of the task
+- priority --- the priority of the task
+
+- (methods like update, delete, patch, get)
+- pip install django
+- pip install djangorestframework
